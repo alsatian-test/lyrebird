@@ -2,7 +2,7 @@
   "name": "lyrebird",
   "version": "1.0.0-alpha.0",
   "description": "Simple mocking framework",
-  "author": "James Richford <=> (=)",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,10 +20,13 @@
     "javascript",
     "typescript"
   ],
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alsatian-test/lyrebird/issues"
   },
-  "homepage": "https://github.com/alsatian-test/lyrebird#readme"
+  "homepage": "https://github.com/alsatian-test/lyrebird#readme",
+  "devDependencies": {
+    "alsatian": "^1.0.0-beta.0",
+    "typescript": "^2.0.3"
+  }
 }
