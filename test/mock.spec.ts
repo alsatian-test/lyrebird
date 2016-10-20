@@ -6,6 +6,7 @@ export default class MockTests {
 
     @Test()
     public mockIsInstanceOfMockable() {
-        Expect(new Mock(Mockable) instanceof Mockable).toBe(true);
+        const mock = Mock(Mockable);
+        Expect(mock instanceof Mockable).toBe(true);
     }
 }
