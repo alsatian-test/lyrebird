@@ -2,6 +2,7 @@
   "name": "lyrebird",
   "version": "1.0.0-alpha.0",
   "description": "Simple mocking framework",
+  "author": "James Richford <=> (=)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
