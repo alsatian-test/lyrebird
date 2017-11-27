@@ -29,6 +29,6 @@
   "homepage": "https://github.com/alsatian-test/lyrebird#readme",
   "devDependencies": {
     "alsatian": "^1.0.0-beta.0",
-    "typescript": "^2.0.3"
+    "typescript": "^2.6.2"
   }
 }
